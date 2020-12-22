@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199.2" height="199.733" viewBox="0 0 199.2 199.733">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.065" y1="0.977" x2="0.938" y2="0.023" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ed6953"/>
+      <stop offset="0.995" stop-color="#ffd454"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.157" y1="1.363" x2="1.172" y2="-0.327" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Grupo_9176" data-name="Grupo 9176" transform="translate(-1100.352 -150.905)">
+    <circle id="Elipse_153" data-name="Elipse 153" cx="99.6" cy="99.6" r="99.6" transform="translate(1100.352 151.171)" fill="#8ccbf9"/>
+    <g id="Grupo_9175" data-name="Grupo 9175">
+      <path id="Trazado_8970" data-name="Trazado 8970" d="M1114.519,350.638,1169.93,273.1h-39.719l55.026-55.023h-46.994l96.148-67.167-32.029,49.8h39.75l-53.576,56.473h31.237Z" fill="url(#linear-gradient)"/>
+      <path id="Trazado_8971" data-name="Trazado 8971" d="M1201.955,298.7h31.29l-44.118,51.934,90.842-65.571h-30.281l35.7-47.126Z" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
