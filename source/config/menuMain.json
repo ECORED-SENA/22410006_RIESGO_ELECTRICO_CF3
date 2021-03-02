@@ -59,7 +59,21 @@
     "slug": "riesgos",
     "title": "2. Riesgos asociados a sistemas PMM",
     "breadcrumb": ["Inicio","Tema 3"],
-    "path": "pages/3-tema.html"
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "riesgos",
+        "title": "2.1 Matriz de clasificación de riesgos del sistema PMM en fondo y superficie",
+        "anchor": "matriz"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "riesgos",
+        "title": "2.2 Diagrama de proceso del permiso de trabajo",
+        "anchor": "diagrama"
+      }
+    ]
   }, 
   { 
     "id": 4,
@@ -94,7 +108,7 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "superficie",
-        "title": "4.1 Tipos y modo de operación de barreras de Superficiey modo de operación de las barreras de fondo",
+        "title": "4.1 Tipos y modo de operación de barreras de superficie y modo de operación de las barreras de fondo",
         "anchor": "tipos"
       },
       {
